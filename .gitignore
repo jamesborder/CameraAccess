@@ -33,3 +33,5 @@ playground.xcworkspace
 # IntelliJ / AppCode
 .idea/
 *.iml
+
+.claude
